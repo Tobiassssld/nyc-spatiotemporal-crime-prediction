@@ -1,0 +1,8 @@
+numpy
+pandas
+geopandas
+shapely
+matplotlib
+torch
+tqdm
+holidays
